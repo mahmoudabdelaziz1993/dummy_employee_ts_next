@@ -1,4 +1,4 @@
-#Dummy emplyee
+# Dummy emplyee
 
 employees managment system.
 
