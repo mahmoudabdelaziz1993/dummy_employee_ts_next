@@ -20,3 +20,11 @@ export enum Direction {
     ACTIVE,
     INACTIVE
   }
+
+  export enum Colors {
+    lime = 0,
+    emerald,
+    cyan,
+    violet,
+    pink
+  }
